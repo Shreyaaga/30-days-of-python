@@ -15,5 +15,4 @@ with open('new.json','w') as f:
     f.write(records)
     f.close()
 
-with open("new.json", "w") as outfile:
-    json.dump(contact_dict, outfile)
+#dumps is actually used to parse the data thus it help sto convert data toa dictionary
