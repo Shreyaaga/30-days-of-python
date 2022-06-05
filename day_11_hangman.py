@@ -1,6 +1,6 @@
 import random
 words=['act', 'air', 'age', 'bag', 'cap', 'map', 'area', 'baby', 'card', 'dish', 'exam', 'good', 'boards', 'chair', 'count', 'facts', 'green', 'house']
-index=random.randint(0,2)
+index=random.randint(0,17)
 word_choosed=words[index]
 
 
